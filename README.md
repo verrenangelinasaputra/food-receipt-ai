@@ -4,22 +4,6 @@ VReceipt Tracker is an AI-powered food receipt management platform. Upload your 
 
 ---
 
-## 📹 Demo Video
-
-Coding No 1
-https://drive.google.com/file/d/14-jp-YDLLZl2LUchrN-ZnW_KAx1T3unG/view?usp=sharing
-
-Coding No 2 & 3
-https://drive.google.com/file/d/1ZRwUBj-mjVKlXsB8gcM_1ph9Lk8zti9j/view?usp=sharing
-
-Coding No 4
-https://drive.google.com/file/d/1mtnPLUqxpdFLUQqXKyd-zLs0v0JtCaLu/view?usp=sharing
-
-Coding No 5
-https://drive.google.com/file/d/1ML0x6L3fwdiU64hnxfPWrmwhHLipUCQZ/view?usp=sharing 
-
----
-
 ## ✨ Features
 
 - **Upload Receipt** — Upload JPG/PNG/WEBP receipt images
